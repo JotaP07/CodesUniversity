@@ -31,7 +31,7 @@ Embora este repositório seja principalmente uma coleção pessoal de códigos, 
 
 ## Contato
 
-Se você tiver alguma pergunta, feedback ou apenas quiser trocar ideias, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/joão-pedro-canhete-34460b236/) ou através do meu e-mail em seunome@email.com.
+Se você tiver alguma pergunta, feedback ou apenas quiser trocar ideias, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/joão-pedro-canhete-34460b236/) ou através do meu e-mail em jpcanhete.contact@gmail.com
 
 ---
-.
+
