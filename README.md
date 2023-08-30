@@ -16,10 +16,10 @@ O repositório está organizado em pastas, cada uma representando uma disciplina
 
 ## Lista de Disciplinas
 
-- [Matemática para Computação](/matematica-para-computacao)
-- [Estruturas de Dados](/estruturas-de-dados)
-- [Inteligência Artificial](/inteligencia-artificial)
-- [Banco de Dados Avançado](/banco-de-dados-avancado)
+- [Sistema de Padaria Em C](/PadariaBerenice)
+- [Exercicios em C no Geral](/C)
+- [Portfolio](/inteligencia-artificial)
+- [Codigos](/Codigos)
 
 ## Como Usar
 
@@ -31,8 +31,7 @@ Embora este repositório seja principalmente uma coleção pessoal de códigos, 
 
 ## Contato
 
-Se você tiver alguma pergunta, feedback ou apenas quiser trocar ideias, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/seudperfil/) ou através do meu e-mail em seunome@email.com.
+Se você tiver alguma pergunta, feedback ou apenas quiser trocar ideias, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/joão-pedro-canhete-34460b236/) ou através do meu e-mail em seunome@email.com.
 
 ---
-
-Licenciado sob a [Licença MIT](LICENSE).
+.
