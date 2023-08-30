@@ -1,7 +1,7 @@
 # Repositório de Códigos Universitários
 
-<p>
-  <img src="C:\Users\joaop\OneDrive\Documentos\VSCODE PROJECTS\CodesUniversity\UA logo.jpg" alt="Logo da Universidade" width="200" height="200">
+<p align = "center">
+  <img src="UA logo.jpg" alt="Logo da Universidade" width="200" height="200">
 </p>
 
 Bem-vindo ao repositório de códigos universitários! Este repositório contém uma coleção de projetos, exercícios e trabalhos práticos desenvolvidos durante o meu tempo na universidade.
