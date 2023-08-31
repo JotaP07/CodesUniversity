@@ -4,7 +4,7 @@
   <img src="UA logo.jpg" alt="Logo da Universidade" width="200" height="200">
 </p>
 
-Bem-vindo ao repositório de códigos universitários! Este repositório contém uma coleção de projetos, exercícios e trabalhos práticos desenvolvidos durante o meu tempo na universidade.
+Bem-vindo ao meu repositório de códigos! Este repositório contém exercícios e trabalhos práticos desenvolvidos durante o meu tempo na universidade.
 
 ## Sobre
 
