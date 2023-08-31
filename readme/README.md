@@ -1,8 +1,9 @@
+<div style="background-image: url('/workspaces/CodesUniversity/readme/background.jpg'); background-size: cover; width: 100%; height: 300px;">
+    <!-- Conteúdo do seu README -->
 
 
 =======
 <link rel="stylesheet" href="style.css">
->>>>>>> 7543215 (ATT JP):readme/README.md
 
 # Repositório de Códigos Universitários
 
@@ -39,3 +40,4 @@ Embora este repositório seja principalmente uma coleção pessoal de códigos, 
 Se você tiver alguma pergunta, feedback ou apenas quiser trocar ideias, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/joão-pedro-canhete-34460b236/) ou através do meu e-mail em jpcanhete.contact@gmail.com
 
 ---
+</div>
