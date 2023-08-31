@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 #include <string.h>
-#include <time.h>"
+#include <time.h>
 #include <math.h>
 #include <unistd.h>
 #include <ctype.h>
