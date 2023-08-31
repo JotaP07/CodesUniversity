@@ -1,7 +1,9 @@
 # Repositório de Códigos Universitários
 
 <p align="center">
-  <img src="UA logo.jpg" alt="Logo da Universidade" width="200" height="200">
+  <a href="(https://uniamerica.br/)">
+    <img src="UA logo.jpg" alt="Logo da Universidade" width="200" height="200">
+  </a>
 </p>
 
 Bem-vindo ao meu repositório de códigos! Este repositório contém exercícios e trabalhos práticos desenvolvidos durante o meu tempo na universidade.
