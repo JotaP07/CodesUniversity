@@ -6,7 +6,7 @@
 
 # Repositório de Códigos Universitários
 
-<p align = "center">
+<p align="center">
   <img src="UA logo.jpg" alt="Logo da Universidade" width="200" height="200">
 </p>
 
