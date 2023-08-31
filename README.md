@@ -1,7 +1,7 @@
 # Repositório de Códigos Universitários
 
 <p align="center">
-  <a href="(https://uniamerica.br/)">
+  <a href="https://uniamerica.br/">
     <img src="UA logo.jpg" alt="Logo da Universidade" width="200" height="200">
   </a>
 </p>
