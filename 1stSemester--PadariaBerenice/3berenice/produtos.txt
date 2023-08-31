@@ -1,0 +1,26 @@
+5
+1
+Pão de forma
+7.50
+0
+0
+2
+Pão de centeio
+8.69
+0
+0
+3
+Broa de milho
+5.00
+0
+0
+4
+Sonho
+4.50
+0
+0
+5
+Tubaína
+3.25
+0
+0

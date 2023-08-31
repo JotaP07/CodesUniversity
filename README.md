@@ -16,10 +16,9 @@ O repositório está organizado em pastas, cada uma representando uma disciplina
 
 ## Lista de Disciplinas
 
-- [Sistema de Padaria Em C](/PadariaBerenice)
-- [Exercicios em C no Geral](/C)
-- [Portfolio](/inteligencia-artificial)
-- [Codigos](/Codigos)
+- [Sistema de Padaria Em C](/1stSemester--PadariaBerenice) - Sistema em C de Venda de produtos. - Códigos feitos em grupo -
+- [Exercicios em C no Geral](/1stSemester-Exercises) - Exercícios relacionados à lógica de programação. 
+- [Portfolio](/Portfolio) - Portfolio em progressso...
 
 ## Como Usar
 
