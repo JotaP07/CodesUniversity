@@ -1,41 +1,118 @@
+/* Estilos gerais */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
 }
 
 .board {
     display: flex;
-    gap: 16px;
-    padding: 16px;
-    overflow-x: scroll;
+    overflow-x: auto;
+    padding: 10px;
 }
 
-.list {
-    background-color: #fff;
-    padding: 8px;
-    min-width: 250px;
-    border-radius: 4px;
-    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.1);
-}
-
-.list-header {
+.column {
     background-color: #f0f0f0;
+    width: 300px;
+    margin: 0 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.column-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0079BF;
+    color: white;
     padding: 8px;
-    border-radius: 4px;
-    margin-bottom: 8px;
+    border-radius: 5px 5px 0 0;
+}
+
+.column-title {
+    margin: 0;
+}
+
+.delete-column-btn {
+    background-color: #ff3333;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.delete-column-btn:hover {
+    background-color: #cc0000;
+}
+
+.column-content {
+    padding: 8px;
+}
+
+.card-list {
+    list-style: none;
+    padding: 0;
 }
 
 .card {
     background-color: #fff;
+    margin: 0 0 8px 0;
     padding: 8px;
-    margin-bottom: 8px;
-    border-radius: 4px;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-    
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
-.card p{
-    font-family: "Poppins";
-    color: #000000;
+
+.card-title {
+    margin: 0;
+}
+
+.delete-card-btn {
+    background-color: #ff3333;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.delete-card-btn:hover {
+    background-color: #cc0000;
+}
+
+.add-column-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.add-column-btn:hover {
+    background-color: #45a049;
+}
+
+.add-card {
+    background-color: #fff;
+    margin: 0 0 8px 0;
+    padding: 8px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.add-card-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-card-btn:hover {
+    background-color: #45a049;
 }
