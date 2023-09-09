@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arrastar e Solatar Azu</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.15.0/Sortable.min.js" integrity="sha512-Eezs+g9Lq4TCCq0wae01s9PuNWzHYoCMkE97e2qdkYthpI0pzC3UGB03lgEHn2XM85hDOUF6qgqqszs+iXU4UA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="item">
+            <span class="text"> Draggable Element 1</span>
+            <i class="fa-solid fa-bars"></i>
+        </div>
+        <div class="item">
+            <span class="text"> Draggable Element 2</span>
+            <i class="fa-solid fa-bars"></i>
+        </div>
+        <div class="item">
+            <span class="text"> Draggable Element 3</span>
+            <i class="fa-solid fa-bars"></i>
+        </div>
+        <div class="item">
+            <span class="text"> Draggable Element 4</span>
+            <i class="fa-solid fa-bars"></i>
+        </div>
+        <div class="item">
+            <span class="text"> Draggable Element 5</span>
+            <i class="fa-solid fa-bars"></i>
+        </div>
+    </div>
+    
+    <script>
+        const dragArea = document.querySelector(".wrapper");
+        new Sortable(dragArea, {
+            animation: 350
+        });
+    </script>
+</body>
+</html>
