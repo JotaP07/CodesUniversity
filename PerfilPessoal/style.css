@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #3b3b3b;
+
+}
+
+header {
+    background-color: #0c0c0c;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+.boas-vindas {
+    color: rgb(88, 88, 88);
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.979);
+    text-align: center;
+}
+
+.secoes-lado-a-lado{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.box-1{
+    width: 800px;
+    height: 180px;
+}
+
+
+.informacoes-descricao,
+.habilidades-descricao {
+
+    font-size: larger;
+    list-style: none;
+    color: rgb(88, 88, 88);
+}
+
+/* Estilo para a seção da imagem */
+.section-img {
+    margin: 0 auto;
+    width: 600px;
+    height:100%;
+}
+
+/* Estilo para a imagem */
+.section-img img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;/
+}
