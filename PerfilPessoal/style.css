@@ -46,14 +46,12 @@ section {
     color: rgb(88, 88, 88);
 }
 
-/* Estilo para a seção da imagem */
 .section-img {
     margin: 0 auto;
     width: 600px;
     height:100%;
 }
 
-/* Estilo para a imagem */
 .section-img img {
     max-width: 100%;
     display: block;
